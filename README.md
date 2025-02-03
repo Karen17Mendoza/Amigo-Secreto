@@ -6,7 +6,7 @@
 
 - [Funcionalidades del proyecto](#Funcionalidades-del-proyecto)
 
-- [Acceso al proyecto](#acceso-proyecto)
+- [Acceso al proyecto](#acceso-al-proyecto)
 
 - [Tecnologías utilizadas](#tecnologías-utilizadas)
 
@@ -29,13 +29,13 @@ El proyecto se encuentra finalizado y esta disponible para ser usado por los usu
 - `Funcionalidad 1`: Ingresar lista de nombres.
 - `Funcionalidad 2`: Elige un nombre aleatorio.
 
-## :file_folder: Acceso al proyecto
+## Acceso al proyecto
 
 Puedes acceder a la aplicacion a traves del siguiente enlace:
 
 https://karen17mendoza.github.io/Amigo-Secreto/
 
-## :computer: Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - JavaScript
 - HTML
