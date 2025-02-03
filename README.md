@@ -14,7 +14,7 @@
 
 - [Conclusión](#conclusión)
 
-## Descripcion del proyecto
+## Descripción del proyecto
 
 ![MI AMIGO SECRETO](image-4.png)
 
@@ -37,9 +37,9 @@ https://karen17mendoza.github.io/Amigo-Secreto/
 
 ## :computer: Tecnologías utilizadas
 
-- ![JavaScript ](image.png)
-- ![HTML](image-1.png)
-- ![CSS](image-3.png)
+- JavaScript
+- HTML
+- CSS
 
 ## Personas Contribuyentes
 
