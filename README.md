@@ -20,7 +20,7 @@
 
 Mi amigo secreto es una aplicacion web que permite a los usuarios utilizarla cuand tengan que realizr un sorteo de amigo secreto en sus evento familiares, sociales o academicos. Esta aplicacion permite ingresar una variedad de nombres y tiene la funcionalidad de sortear un nombre aleatorio, siendo este el resultado de tu amigo secreto.
 
-## :+1: Estado del proyecto :+1:
+## Estado del proyecto :+1:
 
 El proyecto se encuentra finalizado y esta disponible para ser usado por los usuarios.
 
